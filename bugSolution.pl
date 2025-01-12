@@ -1,0 +1,1 @@
+my @array = (1, 2, 3); for my $i (0..$#array) { print $array[$i] . " "; } print "\n"; my @array = (1, 2, 3); for my $i (0..@array -1) { print $array[$i] . " "; } print "\n"; my @array = (1, 2, 3); foreach my $element (@array){ print $element . " "; } print "\n";
