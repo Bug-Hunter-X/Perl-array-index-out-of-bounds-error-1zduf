@@ -1,0 +1,1 @@
+This repository contains a Perl code example that demonstrates a common error when working with arrays. The error is an index out of bounds error that occurs when the loop iterates one time more than it should. The solution shows how to fix this error by using the scalar context of the array to get the number of elements in the array.
